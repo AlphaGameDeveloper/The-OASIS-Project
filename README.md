@@ -12,3 +12,7 @@ as being a Trojan Horse (Which it is not)
 
 # Why?
 I don't know... Ask Microsoft.
+
+# Where can I get updates?
+Go to [AlphaGame.dev](https://alphagame.dev/my-games/the-oasis-project/) for updates!
+For other games, which there are none, go [HERE](https://alphagame.dev/)!
